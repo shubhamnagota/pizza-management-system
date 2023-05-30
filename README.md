@@ -20,3 +20,7 @@ npm install
 npm run dev
 ```
 
+Demo
+
+![Alt Text](demo.gif)
+
